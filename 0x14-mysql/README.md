@@ -1,25 +1,3 @@
+# Mysql
 
-Concepts
-For this project, we expect you to look at these concepts:
-
-Database administration
-Web stack debugging
-[How to] Install mysql 5.7
-
-Resources
-Read or watch:
-
-What is a primary-replica cluster
-MySQL primary replica setup
-Build a robust database backup strategy
-man or help:
-
-mysqldump
-
-General
-What is the main role of a database
-What is a database replica
-What is the purpose of a database replica
-Why database backups need to be stored in different physical locations
-What operation should you regularly perform to make sure that your database backup strategy actually works
-
+This project involved learning how to configure database servers in a primary-replica model. I configured the two servers provided to me by ALX in a MySQL primary-replica setup with a dummy database, and wrote a Bash script to automate generation of database.
